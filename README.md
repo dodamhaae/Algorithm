@@ -9,6 +9,7 @@
 ## _Level 1_
 | 문제 출처 | 풀이 |
 | ------- | --- |
+| [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [K번째수.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/K%EB%B2%88%EC%A7%B8%EC%88%98.py) |
 | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/x%EB%A7%8C%ED%81%BC-%EA%B0%84%EA%B2%A9%EC%9D%B4-%EC%9E%88%EB%8A%94-n%EA%B0%9C%EC%9D%98-%EC%88%AB%EC%9E%90.py) |
 | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) | [가운데 글자 가져오기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EA%B0%80%EC%9A%B4%EB%8D%B0-%EA%B8%80%EC%9E%90-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.py) |
 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | [같은 숫자는 싫어.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EA%B0%99%EC%9D%80-%EC%88%AB%EC%9E%90%EB%8A%94-%EC%8B%AB%EC%96%B4.py) |
@@ -22,14 +23,17 @@
 | [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) | [문자열 내 p와 y의 개수.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-p%EC%99%80-y%EC%9D%98-%EA%B0%9C%EC%88%98.py) |
 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [문자열 내 마음대로 정렬하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py) |
 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | [문자열 내림차순으로 배치하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py) |
+| [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | [문자열 다루기 기본.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%EA%B8%B0%EB%B3%B8.py) |
 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [문자열을 정수로 바꾸기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-%EC%A0%95%EC%88%98%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0.py) |
 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [부족한 금액 계산하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EB%B6%80%EC%A1%B1%ED%95%9C-%EA%B8%88%EC%95%A1-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.py) |
+| [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [삼총사.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EC%82%BC%EC%B4%9D%EC%82%AC.py) |
 | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919) | [서울에서 김서방 찾기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.py) |
 | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) | [수박수박수박수박수박수?.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EF%BC%9F.py) |
 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [약수의 개수와 덧셈.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EC%95%BD%EC%88%98%EC%9D%98-%EA%B0%9C%EC%88%98%EC%99%80-%EB%8D%A7%EC%85%88.py) |
 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) | [약수의 합.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EC%95%BD%EC%88%98%EC%9D%98-%ED%95%A9.py) |
 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [없는 숫자 더하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EC%97%86%EB%8A%94-%EC%88%AB%EC%9E%90-%EB%8D%94%ED%95%98%EA%B8%B0.py) |
 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [음양 더하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EC%9D%8C%EC%96%91-%EB%8D%94%ED%95%98%EA%B8%B0.py) |
+| [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | [이상한 문자 만들기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EC%9D%B4%EC%83%81%ED%95%9C-%EB%AC%B8%EC%9E%90-%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [자릿수 더하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EC%9E%90%EB%A6%BF%EC%88%98-%EB%8D%94%ED%95%98%EA%B8%B0.py) |
 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | [자연수 뒤집어 배열로 만들기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EC%9E%90%EC%97%B0%EC%88%98-%EB%92%A4%EC%A7%91%EC%96%B4-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
 | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) | [정수 내림차순으로 배치하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%EC%A0%95%EC%88%98-%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py) |
@@ -45,12 +49,13 @@
 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | [푸드 파이트 대회.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%ED%91%B8%EB%93%9C-%ED%8C%8C%EC%9D%B4%ED%8A%B8-%EB%8C%80%ED%9A%8C.py) |
 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947) | [하샤드 수.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%ED%95%98%EC%83%A4%EB%93%9C-%EC%88%98.py) |
 | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) | [핸드폰 번호 가리기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EA%B0%80%EB%A6%AC%EA%B8%B0.py) |
+| [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) | [행렬의 덧셈.py](https://github.com/dodamhaae/Programmers/blob/main/Level-1/%ED%96%89%EB%A0%AC%EC%9D%98-%EB%8D%A7%EC%85%88.py) |
 
 
 ## _Level 0_
 | 번호 | 문제 출처 | 풀이 |
 | --- | ------- | --- |
-| 1 | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | [2차원으로 만들기.py] |
+| 1 | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | [2차원으로 만들기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/2%EC%B0%A8%EC%9B%90-%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
 | 2 | [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) | [369게임.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/369%EA%B2%8C%EC%9E%84.py) |
 | 3 | [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912) | [7의 개수.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/7%EC%9D%98-%EA%B0%9C%EC%88%98.py) |
 | 4 | [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [A로 B 만들기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/A%EB%A1%9C-B-%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
@@ -68,7 +73,7 @@
 | 16 | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | [나머지 구하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EB%82%98%EB%A8%B8%EC%A7%80-%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
 | 17 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | [나이 출력.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EB%82%98%EC%9D%B4-%EC%B6%9C%EB%A0%A5.py) |
 | 18 | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | [다음에 올 숫자.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EB%8B%A4%EC%9D%8C%EC%97%90-%EC%98%AC-%EC%88%AB%EC%9E%90.py) |
-| 19 | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [다항식 더하기.py] |
+| 19 | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [다항식 더하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EB%8B%A4%ED%95%AD%EC%8B%9D-%EB%8D%94%ED%95%98%EA%B8%B0.py) |
 | 20 | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) | [대문자와 소문자.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EB%8C%80%EB%AC%B8%EC%9E%90%EC%99%80-%EC%86%8C%EB%AC%B8%EC%9E%90.py) |
 | 21 | [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [두 수의 곱.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EB%91%90-%EC%88%98%EC%9D%98-%EA%B3%B1.py) |
 | 22 | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | [두 수의 나눗셈.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EB%91%90-%EC%88%98%EC%9D%98-%EB%82%98%EB%88%97%EC%85%88.py) |
@@ -110,7 +115,7 @@
 | 58 | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) | [약수 구하기.py] |
 | 59 | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [양꼬치.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%96%91%EA%BC%AC%EC%B9%98.py) |
 | 60 | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | [연속된 수의 합.py] |
-| 61 | [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | [영어가 싫어요.py] |
+| 61 | [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | [영어가 싫어요.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%98%81%EC%96%B4%EA%B0%80-%EC%8B%AB%EC%96%B4%EC%9A%94.py) |
 | 62 | [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | [옷가게 할인 받기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%98%B7%EA%B0%80%EA%B2%8C-%ED%95%A0%EC%9D%B8-%EB%B0%9B%EA%B8%B0.py) |
 | 63 | [옹알이](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | [옹알이.py] |
 | 64 | [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | [외계어 사전.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%99%B8%EA%B3%84%EC%96%B4-%EC%82%AC%EC%A0%84.py) |
@@ -129,15 +134,15 @@
 | 77 | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [중복된 숫자 개수.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%A4%91%EB%B3%B5%EB%90%9C-%EC%88%AB%EC%9E%90-%EA%B0%9C%EC%88%98.py) |
 | 78 | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [중앙값 구하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%A4%91%EC%95%99%EA%B0%92-%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
 | 79 | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [직각삼각형 출력하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py) |
-| 80 | [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860) | [직사각형 넓이 구하기.py] |
+| 80 | [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860) | [직사각형 넓이 구하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-%EB%84%93%EC%9D%B4-%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
 | 81 | [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [진료순서 정하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%A7%84%EB%A3%8C%EC%88%9C%EC%84%9C-%EC%A0%95%ED%95%98%EA%B8%B0.py) |
 | 82 | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [짝수 홀수 개수.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%A7%9D%EC%88%98-%ED%99%80%EC%88%98-%EA%B0%9C%EC%88%98.py) |
 | 83 | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | [짝수는 싫어요.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%A7%9D%EC%88%98%EB%8A%94-%EC%8B%AB%EC%96%B4%EC%9A%94.py) |
 | 84 | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [짝수의 합.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%A7%9D%EC%88%98%EC%9D%98-%ED%95%A9.py) |
 | 85 | [최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | [최댓값 만들기(1).py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%B5%9C%EB%8C%80%EA%B0%92-%EB%A7%8C%EB%93%A4%EA%B8%B0-(1).py) |
 | 86 | [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | [최댓값 만들기 (2).py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%B5%9C%EB%8C%80%EA%B0%92-%EB%A7%8C%EB%93%A4%EA%B8%B0-(2).py) |
-| 87 | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [최빈값 구하기.py] |
-| 88 | [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884) | [치킨 쿠폰.py] |
+| 87 | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [최빈값 구하기.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%B5%9C%EB%B9%88%EA%B0%92-%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
+| 88 | [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884) | [치킨 쿠폰.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%B9%98%ED%82%A8-%EC%BF%A0%ED%8F%B0.py) |
 | 89 | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) | [캐릭터의 좌표.py] |
 | 90 | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) | [컨트롤 제트.py](https://github.com/dodamhaae/Programmers/blob/main/Level-0/%EC%BB%A8%ED%8A%B8%EB%A1%A4-%EC%A0%9C%ED%8A%B8.py) |
 | 91 | [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880) | [특이한 정렬.py] |
